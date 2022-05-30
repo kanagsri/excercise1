@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *This class generates students list
- * @author Megha Patel 2022
+ * @author Megha Patel 2030
  */
 public class StudentList {
 
